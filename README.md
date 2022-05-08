@@ -15,4 +15,11 @@ Comparing the two months our analysis shows that temperatures for the two months
 Knowing the average, minimum and maximum temperatures is helpful with business planning. However, it may not provide enough comparison. Our customer may find it challenging to fully understand weather factors without conducting precipitation and wave measurements for the two months. This information will be vital to predicting success of a surf shop. 
 
 ## Summary: 
-The data set used for this project included precipitation data and to support the research we added precipitation data to this analysis. Our customer may still consider researching wave measurements during June and December. Adding the preciptiation analysis does not suggest preciptitation to be a concern with minimum preciptiation at 0 and maximum precipitation ranging from 4-6 inches of rain during the month. Our analysis suggests that weather will not be a deterent to the success of the surf shop.  
+The data set used for this project included precipitation data and to support the research we added precipitation data to this analysis. 
+
+![June_prcp](https://github.com/KathleenYager/surfs_up/blob/main/June_prcp.png)
+![Dec_prcp](
+
+Adding the preciptiation analysis does not suggest preciptitation to be a concern with minimum preciptiation at 0 and maximum precipitation ranging from 4-6 inches of rain during the month. 
+
+Our analysis suggests that weather will not be a deterent to the success of the surf shop. To further the analysis, our customer may want to consider researching wave measurements for the two months being compared. 
