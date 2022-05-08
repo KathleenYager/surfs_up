@@ -18,7 +18,7 @@ Knowing the average, minimum and maximum temperatures is helpful with business p
 The data set used for this project included precipitation data and to support the research we added precipitation data to this analysis. 
 
 ![June_prcp](https://github.com/KathleenYager/surfs_up/blob/main/June_prcp.png)
-![Dec_prcp](
+![Dec_prcp](https://github.com/KathleenYager/surfs_up/blob/main/Dec_prcp.png)
 
 Adding the preciptiation analysis does not suggest preciptitation to be a concern with minimum preciptiation at 0 and maximum precipitation ranging from 4-6 inches of rain during the month. 
 
