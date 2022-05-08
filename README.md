@@ -8,7 +8,7 @@ The purpose of the Surfs-Up project is to provide our customer analysis of tempe
 Statitical analysis for temperatures in the months of June and December shown in this report are sourced from a weather database related to Hawaii. The database contains 19,550 records ranging from 2010-2017. Extracted from the database were temperatures for the two months to be compared. Results of the two months are reflective of more than 1500 temps (June, n=1700; December, n=1517). The images below provide statistical analysis for each month. 
 
 ![June_temps](https://github.com/KathleenYager/surfs_up/blob/main/June_temps.png)
-![Dec_temps](
+![Dec_temps](https://github.com/KathleenYager/surfs_up/blob/main/Dec_temps.png)
 
 Comparing the two months our analysis shows that temperatures for the two months will be similar, with average temps in June slightly higher than the average temp in December. Minimum temps in for each month will range in the low 60's to mid 50's. Maximum temps will range in the low to mid 80's. 
 
